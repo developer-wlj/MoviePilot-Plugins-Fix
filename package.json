@@ -1,0 +1,14 @@
+{
+    "SiteStatisticFix": {
+        "name": "站点数据统计修改版",
+        "description": "临时修复原版bug, 不长期更新(需要先安装原版,可以不运行)",
+        "labels": "站点",
+        "version": "3.1",
+        "icon": "statistic.png",
+        "author": "lightolly,wlj",
+        "level": 2,
+        "history": {
+            "v3.1": "修复支持无cookie获取馒头数据, 优化减少不必要的网络请求"
+        }
+    }
+}
